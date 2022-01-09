@@ -1,0 +1,9 @@
+#header-text-8 .bg {
+    background-image: url('../images/IMG_20220109_144045.jpg');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity:0.75;
+}#footer-text-2 .bg-wrap {
+    background-color: #F4F5F6;
+}
